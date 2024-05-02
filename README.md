@@ -1,1 +1,3 @@
-# react-native-aora
+# Aora
+
+React Native, Expo Test App
